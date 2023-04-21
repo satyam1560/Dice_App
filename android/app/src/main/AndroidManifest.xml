@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.dice_app">
+    package="com.satyam.dice_app">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="dice_app"
+        android:label="Dice App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
