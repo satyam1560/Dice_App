@@ -1,6 +1,9 @@
 # dice_app
 
 A new Flutter project.
+![Google Pixel 3 XL (1)](https://github.com/satyam1560/Dice_App/assets/68018492/04fe67bb-33e4-4373-9aef-67118a49e6c7)
+![Google Pixel 3 XL](https://github.com/satyam1560/Dice_App/assets/68018492/fe705af8-40dd-4aaa-8d6d-57e3a4cbaac6)
+
 
 ## Getting Started
 
